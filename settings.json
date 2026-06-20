@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "perplexi.play.hosting",
-    "port": 50474,
+    "port": 26837,
     "version": "",
     "try-creative": false
   },
