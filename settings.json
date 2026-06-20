@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "perplexi.play.hosting",
-    "port": 26837,
+    "ip": "perplexi.aternos.me",
+    "port": 61152,
     "version": "",
     "try-creative": false
   },
