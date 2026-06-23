@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "uaru.aternos.host",
-    "port": 61152,
+    "ip": "SolarPlex.aternos.me",
+    "port": 53461,
     "version": "",
     "try-creative": false
   },
